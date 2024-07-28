@@ -17,8 +17,8 @@ print(f'Public IP Address: {ip}')
 load_dotenv()
 
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
-APP_ID = int(os.environ.get("APP_ID", "28196802"))
-API_HASH = os.environ.get("API_HASH", "dccf92fd1c0bad1b7de1e8efc63654ff")
+APP_ID = int(os.environ.get("APP_ID", "22902589"))
+API_HASH = os.environ.get("API_HASH", "3045f3e99c422584a2b587e0d9731170")
 
 
 OWNER = os.environ.get("OWNER", "@SaranshChahar")  # Owner username
